@@ -497,7 +497,6 @@ Detailed setup instructions are available in each component repository.
 ### Current Metrics
 
 - **2** AI Agents registered on Agentverse
-- **1** Personalized Assistant Agent for orchestration
 - **3** Integrated components (Mobile, Backend, Dashboard)
 
 ### Expected Impact (First Year)
